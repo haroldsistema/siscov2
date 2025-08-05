@@ -22,10 +22,10 @@
 }
 
 .carousel .carousel-control-prev-icon {
-    background-image: url("../images/svg/arrow_left.svg")!important;
+    background-image: url("../img/svg/arrow_left.svg")!important;
 }
 .carousel .carousel-control-next-icon {
-    background-image: url(../images/svg/arrow_right.svg);
+    background-image: url(../img/svg/arrow_right.svg);
 }
 .carousel-item {
     height: 70vh;
